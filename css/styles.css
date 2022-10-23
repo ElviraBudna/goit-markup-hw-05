@@ -690,6 +690,7 @@ img {
   align-items: center;
   width: 30px;
   height: 30px;
+  cursor: pointer;
 
   color: #000000;
   background-color: var(--white-color);
